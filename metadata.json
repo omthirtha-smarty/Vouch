@@ -1,0 +1,6 @@
+{
+  "name": "VOUCH",
+  "description": "Trust Before Transaction – The Credit Score for Brands. A Brand Trust Intelligence Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
